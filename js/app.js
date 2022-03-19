@@ -3,9 +3,22 @@ const definition = document.querySelector('.definition');
 const checkButton = document.querySelector('.check');
 const nextButton = document.querySelector('.next');
 
-words = {Hello: "Hallo",
-         GoodBye: "Tschüss",
-        "I drink Water": "Ich trinke Wasser"};
+words = {geben: "give",
+         erklären: "Explain",
+         leihen: "borrow",
+         schicken: "send",
+         schenken: "gift",
+         schreiben: "write",
+         machen: "make",
+         bringen: "bring",
+         nehmen: "take",
+         erzählen: "tell / narrate",
+         empfehlen: "recommend / suggest",
+         präsentieren: "present / showcase",
+         zeigen: "show",
+         kaufen: "buy /  purchase ",
+        
+        };
       
 data = Object.entries(words);
 
