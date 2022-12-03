@@ -17,6 +17,8 @@ words = {geben: "give",
          präsentieren: "present / showcase",
          zeigen: "show",
          kaufen: "buy /  purchase ",
+         Schädigung: "Damage/injury",
+         "Falsch eingeordnet (Fahrstreifen":"incorrectly classified(lane)",
         
         };
       
