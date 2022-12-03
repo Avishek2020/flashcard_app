@@ -3,22 +3,14 @@ const definition = document.querySelector('.definition');
 const checkButton = document.querySelector('.check');
 const nextButton = document.querySelector('.next');
 
-words = {geben: "give",
-         erklären: "Explain",
-         leihen: "borrow",
-         schicken: "send",
-         schenken: "gift",
-         schreiben: "write",
-         machen: "make",
-         bringen: "bring",
-         nehmen: "take",
-         erzählen: "tell / narrate",
-         empfehlen: "recommend / suggest",
-         präsentieren: "present / showcase",
-         zeigen: "show",
-         kaufen: "buy /  purchase ",
+words = {
+         links: "To the left",
+         Rechts: "To the right",
+         "Nächste Straße (links/rechts)": "Next street (left/ right)",
+         "Halb links/rechts abbiegen": "Turn half-left / half-right",
+
          Schädigung: "Damage/injury",
-         "Falsch eingeordnet (Fahrstreifen":"incorrectly classified(lane)",
+         "Falsch eingeordnet (Fahrstreifen)":"incorrectly classified(lane)",
         
         };
       
