@@ -17,7 +17,7 @@ words = {
          "Anhalten":"Stop",
          "Rückwärts fahren (links/rechts)":"Reverse(left/right)",
          "Vorwärts fahren (links/rechts)":"Go forward(left/right)",
-         "Einparken längs/quer (vorwärts/rückwärts)":"Park lenghtwise (forward/ backward)",
+         "Einparken längs/quer (vorwärts/rückwärts)":"Park lengthwise (forward/ backward)",
          "Einparken quer (vorwärts/rückwärts)":"Park crosswise (forward/ backward)",
          "Umkehren":"turn around",
          "Hinter dem Fahrzeug einparken":"Park behind the vehicle",
